@@ -1,10 +1,8 @@
 # Pythagoras
 Pythagoras is a small Haskell library for performing the Pythagorean Theorum.
 
-_If you would like to learn how to pythagoras is build, I made a tutorial. Its under how-to.md_
+_If you would like to learn how to Pythagoras is built or how to build a small Haskell Library? I made a tutorial. Its under PythagorasTutorial.md_
 
-
----
 
 # Usage
 ```haskell
@@ -13,9 +11,7 @@ Prelude> solveForB 9 _ 15
 ```
 
 ---
-# Not official features just stuff I think would be nice
-
-#### Output dreams (inside GHCi only)
+# Features I hope for.
 
 ```haskell
 Prelude> solveForB 9 _ 15 --command
