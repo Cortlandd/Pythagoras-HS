@@ -3,7 +3,6 @@ Pythagoras is a small Haskell library for performing the Pythagorean Theorum.
 
 _If you would like to learn how to pythagoras is build, I made a tutorial. Its under how-to.md_
 
-_A big thank you to the authors of Haskell Programming From First Principles, [Chris Allen](http://twitter.com/bitemyapp) && [Julie Moronuki](https://twitter.com/argumatronic). And my good friend [Athan Clark](https://twitter.com/athan__). They have been tremendous factors in my learning Haskell. Wouldn't have made it without them. Also, a big shoutout to all the friends via twitter who assist adn give feedback. I appreciate it all._
 
 ---
 
@@ -28,3 +27,4 @@ b = sqrt 144
 b = 12
 ```
 
+_A big thank you to the authors of Haskell Programming From First Principles, [Chris Allen](http://twitter.com/bitemyapp) & [Julie Moronuki](https://twitter.com/argumatronic). And my good friend [Athan Clark](https://twitter.com/athan__). They have been tremendous factors in my learning Haskell. Also, a big shoutout to all the friends on twitter who assist and give feedback._
