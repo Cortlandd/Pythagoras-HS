@@ -13,13 +13,13 @@ name:                Pythagoras
 version:             0.1.0.0
 
 -- A short (one-line) description of the package.
-synopsis:            The Pythagoras library is a simple library with functions for solving for a, b, or c in a very simple way.
+synopsis:            A small Haskell library for calculating the lengths of a triangle using the Pythagorean Theorem.
 
 -- A longer description of the package.
 -- description:         
 
 -- URL for the project homepage or repository.
-homepage:            http://github.com/cortlandd/Pythagoras
+homepage:            http://github.com/Cortlandd/Pythagoras
 
 -- The license under which the package is released.
 license:             PublicDomain
@@ -28,11 +28,11 @@ license:             PublicDomain
 license-file:        LICENSE
 
 -- The package author(s).
-author:              Cortland Walker
+author:              Cortland Walker <cortlandits@gmail.com>
 
 -- An email address to which users can send suggestions, bug reports, and 
 -- patches.
-maintainer:          cortlandits@gmail.com
+maintainer:          Cortland Walker <cortlandits@gmail.com>
 
 -- A copyright notice.
 -- copyright:           
