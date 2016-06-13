@@ -124,8 +124,9 @@ With this, the ```Pythagoras/``` folder is where your source code goes, and ```P
     Ok, modules loaded: Pythagoras, TestPythagoras
     *TestPythagoras> main
     24.0
+    ```
  
- 8. Now you officially have a working Haskell Library. Uploading to Hackage is probably beyond the scope of this tutorial so I won't. But for now, make additions to Pythagoras, perfect it. Go out and explore the world of Haskell.
+8. Now you officially have a working Haskell Library. Uploading to Hackage is probably beyond the scope of this tutorial so I won't. But for now, make additions to Pythagoras, perfect it. Go out and explore the world of Haskell.
 
 
 # Bonus Material
@@ -146,6 +147,7 @@ With this, the ```Pythagoras/``` folder is where your source code goes, and ```P
 ##### Making ```Pythagoras``` more efficient.
 The initial Pythagoras.hs was meant to be beginner friendly, and easy to understand.
 A way to build it which...WHY IS THIS DONE. PROFESSIONAL INPUT WOULD BE HELPFUL
+
 ```Haskell
 -- All functions will be contained in a module called: Pythagoras
 module Pythagoras where {- a² + b² = c² -}
